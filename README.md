@@ -1,33 +1,32 @@
-# Unemployment In India Dashboard
+# Employee Salaries For Different Job Roles Dashboard
 
 ## **Overview :-**
-This project delves into the unemployment situation in India by leveraging data visualization capabilities in Power BI. The aim is to present a clear and comprehensive picture of unemployment trends across various states, demographics, and time periods, thereby providing valuable insights for policymakers, researchers, and the general public.
+This project involves an in-depth analysis of employee salaries across different job roles and company locations. The analysis aimed to understand salary distribution and identify key factors influencing compensation. Filters for year, experience level, and company size were applied to provide more targeted insights.
 
 ## **Objective :-**
 The primary objectives of this project are :-
-- To analyze and visualize the unemployment rate in India.
-- To identify trends and patterns in unemployment across different regions and demographic groups.
-- To provide a tool for stakeholders to explore and understand the underlying factors contributing to unemployment.
+- To analyze salary distribution and key performance indicators to better understand compensation patterns.
+- This involved refining the analysis with filters such as year, experience level, and company size.
 
 ## 📌 Key Features :-
-- **Interactive Dashboards :-** Users can interact with various dashboards to get detailed insights into unemployment data.
-- **State-wise Analysis :-** Provides a granular view of unemployment statistics across different Indian states.
-- **Demographic Insights :-** Examines unemployment rates segmented by rural and urban areas.
-- **Time Series Analysis :-** Highlights trends and changes in unemployment over specific periods.
-- **Customizable Filters :-** Allows users to apply filters and drill down into specific data segments for deeper analysis.
+- **Sum of Salaries and Count of Employees by Job Title :-** Identified roles with the highest sum of salaries and employee counts.
+- **Count of Job Titles by Remote Ratio :-** Assessed the distribution of remote work arrangements across job titles.
+- **Count of Employees by Company Size :-** Analyzed employee distribution based on company size.
+- **Average Salary by Job Title :-** Highlighted job roles with the highest average salaries.
+- **Average Salary by Experience Level :-** Examined salary variations across different experience levels.
+- **Average Salary by Company Location :-** Visualized geographical salary distribution.
 
 ## 📌 Conclusion :-
-This Power BI project on unemployment in India offers a powerful tool for understanding and addressing unemployment issues. By providing detailed visualizations and interactive features, it enables stakeholders to make data-driven decisions. Continuous updates and enhancements will ensure that the tool remains relevant and valuable.
+The analysis provided valuable insights into salary trends across different job roles and company locations. These findings are crucial for workforce planning, budgeting, and identifying areas for further research to uncover more detailed insights.
 
 ## 🛠️ Tools Used :-
 - **Power BI :-** For creating interactive data visualizations and dashboards.
-- **Excel/CSV :-** For data preprocessing, cleaning, and initial analysis.
 - **DAX (Data Analysis Expressions) :-** Utilized in Power BI for data modeling and complex calculations.
 
 # DashBoard Vedio :-
-https://github.com/MyProjects-5/Unemployment-In-India/assets/140932670/a465e265-efb9-4e29-a69b-b7c993ffc9ea
 
 # Screenshot of the Analysis :-
-![Screenshot 2024-05-15 131342](https://github.com/MyProjects-5/Unemployment-In-India/assets/140932670/b921fed7-6f6f-41b4-a98e-90e8496a3497)
+![Screenshot 2024-06-01 131622](https://github.com/MyProjects-5/Employee_Salaries_For_Different_Job_Roles-Dashboard/assets/140932670/3c4bd37a-5906-48e8-91f5-48d15f0cb574)
+
 
 
