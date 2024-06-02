@@ -24,6 +24,7 @@ The analysis provided valuable insights into salary trends across different job 
 - **DAX (Data Analysis Expressions) :-** Utilized in Power BI for data modeling and complex calculations.
 
 # DashBoard Vedio :-
+https://github.com/MyProjects-5/Employee_Salaries_For_Different_Job_Roles-Dashboard/assets/140932670/0d4867d3-7ad9-488d-8589-9f02a153224f
 
 # Screenshot of the Analysis :-
 ![Screenshot 2024-06-01 131622](https://github.com/MyProjects-5/Employee_Salaries_For_Different_Job_Roles-Dashboard/assets/140932670/3c4bd37a-5906-48e8-91f5-48d15f0cb574)
